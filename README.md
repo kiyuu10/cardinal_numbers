@@ -1,2 +1,2 @@
 This project for hackathon week
-This is a digital reading program
+This is a program that converts text to sound
